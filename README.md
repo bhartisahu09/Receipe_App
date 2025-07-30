@@ -37,9 +37,8 @@ A complete Flutter Indian Recipe App with authentic Indian cuisine, modern UI de
 ## Screenshots
 
 | Receipe | Receipe details | Filter Categories | Search |
-|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 |<img src="assets/screenshots/receipe.png" width="300"> | <img src="assets/screenshots/receipe_detail.png" width="300"> | <img src="assets/screenshots/dessert.png" width="300"> |  <img src="assets/screenshots/sweets.png" width="300"> |
-
 
 ## Project Structure
 
